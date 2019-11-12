@@ -158,7 +158,9 @@ html, body {
     width: 100%;
     height: 100vh;
     padding: 20px;
-
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
 }
 .title {
     font-size: 25px;
@@ -172,12 +174,12 @@ html, body {
     justify-content: center;
 }
 .containerl-list article {
-    max-width: 350px;
+    max-width: 370px;
     display: block;
     height: 270px;
 }
 .containerl-list > article {
-    flex: 1 1 260px;
+    flex: 1 1 370px;
     margin-right: 20px;
 }
 .containerl-list article img {
