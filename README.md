@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="index.css" />
+<style> 
+img { width: 100px; }
+</style>
 
 # RECRIAÇÃO INTERFACES DE GRANDES SERVIÇOS
 
