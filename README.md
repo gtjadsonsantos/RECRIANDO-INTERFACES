@@ -1,7 +1,3 @@
-<style> 
-img { width: 100px; }
-</style>
-
 # RECRIAÇÃO INTERFACES DE GRANDES SERVIÇOS
 
 ## LISTA DE PROJETOS
@@ -9,6 +5,8 @@ img { width: 100px; }
 <table>
     <tbody>
     <tr>
+        <td><a href="Youtube/index.html"><img src="Youtube/imgs/youtube.png" title="YouTube"></a></td>
+        <td><a href="Youtube/index.html"><img src="Youtube/imgs/youtube.png" title="YouTube"></a></td><td><a href="Youtube/index.html"><img src="Youtube/imgs/youtube.png" title="YouTube"></a></td>
         <td><a href="Youtube/index.html"><img src="Youtube/imgs/youtube.png" title="YouTube"></a></td>
     </tr>
     </tbody>
